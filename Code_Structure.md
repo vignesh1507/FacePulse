@@ -1,4 +1,4 @@
-**Code Structure:**
+Code Structure:
 
 Import Libraries:
 
@@ -14,7 +14,7 @@ face-recognition: Library for face detection and recognition.
 
 Pillow: Used for handling image processing, like saving captured frames.
 
-**App Structure:**
+App Structure:
 
 App Title and Menu:
 
