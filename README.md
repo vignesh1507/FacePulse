@@ -10,7 +10,7 @@ FacePulse is an AI-driven facial recognition-based attendance system developed u
   
 - **Real-Time Attendance**: Detect and track attendance using the trained model.
   
-- **Streamlit UI**: Easy-to-use web interface for registration, model training, and attendance tracking.
+- **Streamlit User Interface (UI)**: Easy-to-use web interface for registration, model training, and attendance tracking.
   
 
 ## Technologies Used
