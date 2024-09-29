@@ -21,7 +21,7 @@ FacePulse is an AI-driven facial recognition-based attendance system developed u
   
 - **OpenCV**: For image capture and processing.
   
-- **pyngrok**: For tunneling the local application to the web.
+- **Pyngrok**: For tunneling the local application to the web.
   
 - **Facial Recognition Libraries**: For identifying and verifying registered faces.
   
