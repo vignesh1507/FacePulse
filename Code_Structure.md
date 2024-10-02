@@ -1,6 +1,4 @@
-# **FacePulse: Facial Recognition Attendance System**
-
-## **Code Structure:**
+# **Code Structure:**
 
 ### **Import Libraries:**
 
