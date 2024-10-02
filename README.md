@@ -30,5 +30,5 @@ FacePulse is an AI-driven facial recognition-based attendance system developed u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vignesh1507/facepulse.git
-   cd facepulse
+   git clone https://github.com/vignesh1507/FacePulse.git
+   cd FacePulse
