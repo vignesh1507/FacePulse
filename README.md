@@ -3,7 +3,7 @@
 FacePulse is an AI-driven facial recognition-based attendance system developed using Python, Streamlit, and OpenCV. This system allows users to register with their ID and name, captures their images via webcam, trains a machine learning model to recognize faces, and tracks attendance in real-time.
 
 ## Features
-
+ 
 - **User Registration**: Capture images through webcam and associate them with a user ID and name.
   
 - **Model Training**: Train a facial recognition model on the captured images.
