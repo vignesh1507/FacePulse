@@ -7,7 +7,7 @@
 - **numpy**: Required for image processing with OpenCV.
 - **pyngrok**: Used for connecting the app to the web (particularly useful in Colab or local environments).
 - **face-recognition**: Library for face detection and recognition.
-- **pillow**: Used for handling image processing, like saving captured frames.
+- **pillow**: Used for handling image processing, like saving captured frames. 
 
 ---
 
