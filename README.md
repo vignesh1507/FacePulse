@@ -6,7 +6,7 @@ FacePulse is an AI-driven facial recognition-based attendance system developed u
  
 - **User Registration**: Capture images through webcam and associate them with a user ID and name.
    
-- **Model Training**: Train a facial recognition model on the captured images.
+- **Model Training**: Train a facial recognition model on the captured images. 
    
 - **Real-Time Attendance**: Detect and track attendance using the trained model.
   
